@@ -17,3 +17,9 @@ Any modifications made to this file will be lost if you update the theme.
 Instead, go to Appearance > Theme Options > Layout and enter your custom CSS there or create a child theme.
 Any style attributes declared there will override the ones in this file and will not be lost during theme update.
 */
+
+#site-description {
+	font-family: "Oswald", sans-serif;
+	font-size: 32px;
+	letter-spacing: 1px;
+}
